@@ -1,0 +1,1 @@
+Man: manual  Ls: list (verb) Q: quit  Cd: change directory  Pwd: path working direction  Pushd  Popd  ..: up one  / : root  ~ : home  ln /bin: list of commands  Tab to autocomplete  mkdir : make directory  cat: concatenate file  

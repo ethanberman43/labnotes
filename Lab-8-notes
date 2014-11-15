@@ -1,0 +1,25 @@
+#Lab 8
+
+###Turing Machine
+
+M1: A --> !A (negation machine)  
+M2: A --> A (affirmation machine)  
+These are Turing Machines.
+
+Universal Turing Machine: (MU) Not only does it take symbols as inputs, but it can take a whole machine as an input. So it can take over the properties of any other Turing Machine.  
+
+Turing: Computable and effectiely computable are the same thing.
+
+The state of the machine includes the symbol that is being "scanned." State is the physics and mechanics along with the symbol being read, but it is possible for it to remember previous symbols read.  
+
+Configuration: mixture of symbol and scanner  
+
+The machine should be able to reconfigure its own state, rewrite itself.
+
+"state of mind" (250) 
+
+Which part of machine is Software? 
+- no right answer
+- state of mind? tape? operation? 
+
+Which part of machine is Hardware?
